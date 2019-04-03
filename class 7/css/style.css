@@ -1,0 +1,36 @@
+*{  
+    margin: 0;
+    padding: 0;
+    line-height: 1.75;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:"verdana", geneva, sans-serif;
+}
+header {
+    
+    padding: 20%;
+    background-color: darkgray;
+    background-image: url(../images/hot-air-balloon.jpg);
+    background-repeat: no-repeat;
+    background-size; cover;
+    background-position: center center;
+    color: #ffffff;
+}
+h1{
+    font-family: 'Shadows Into Light', cursive;
+}
+p{
+    /*background-color: rgba(255, 255, 255, 0.3);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+div{
+    width:200px;
+    height: 200px;
+    background: #ff0000;
+    border-radius: 50%;*/
+}
+
