@@ -1,0 +1,189 @@
+*{  
+    margin: 0;
+    padding: 0;
+    line-height: 1.75;
+    box-sizing: border-box;
+}
+
+body{
+/*    font-family: 'Play', sans-serif;*/
+    font-family: 'Concert One', cursive;
+    background-color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+}
+
+nav {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 20px;
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: black;
+    opacity: 0.95;
+}
+
+nav ul a:link {
+    text-decoration: none;
+    color: #9E1030;
+   
+}
+header {
+    
+    padding: 20%;
+    background-color: black;
+    background-image: url(../img/supremeblast.jpg);
+    background-repeat: no-repeat;
+    background-size; cover;
+    background-position: center center;
+    color: #ffffff;
+}
+#myheader{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 250%;
+    text-align: left;
+    border: none;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 200%;
+    text-align: center;
+    padding: 10px;
+    border: 5px dotted #FFC0CB;
+
+}
+
+
+
+    .img {  
+    display: flex;
+    justify-content: center;
+/*        background-color: black;*/
+        padding: 40px;
+        clear: both;
+        }
+
+.back-border{
+    display: flex;
+    justify-content: flex-end;
+    width: 80%;
+    padding: 10px;
+    margin: 5px;
+    border: 5px solid clear;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+
+
+}
+/*
+
+.man{
+  background
+}
+*/
+
+/*
+.circles {
+  border-radius: 50%;
+}
+*/
+
+
+.manwholovescolor {
+  border: 40px solid black;
+  margin: 75px 50px 75px 100px;
+padding: 20px;
+}
+
+.split {
+    display: flex;
+    margin: 0;
+
+}
+.item2 {
+    
+    order: 2;
+    background-color: pink;
+/*    padding: 10px;*/
+}
+
+/*
+.item1 {
+    order: 1;
+}
+*/
+
+/*
+.opening {
+background-color: deeppink ; 
+border: 20px solid black;
+
+}*/
+
+footer{
+    border-bottom: 5px dotted #FFC0CB;
+}
+
+p {
+    margin: 30px;
+ 
+}
+
+/*
+.last{
+    margin: none;
+}
+*/
+
+#top{
+  display: none; 
+  position: fixed;
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 30px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: pink;
+  color: white; 
+  cursor: pointer;
+  padding: 15px;
+  border-radius: 10px; 
+  font-size: 18px; 
+}
+
+#highlight {
+    background-color: white;
+    border: 10px solid #FFC0CB;
+    padding: 30px;
+    width: 60%;
+    text-align: center;
+/*    margin: 20px;*/
+}
+
+#links {
+    text-align: left;
+    margin: 50px;
+}
+
+strong{
+    font-size: 30px;
+}
+
+h2{
+    text-decoration: underline;
+    text-decoration-color: pink;
+    text-align-last: right;
+    padding-right: 20px;
+}
+    
+#secondbackground {
+    background-color: black;
+    background-image: url(../img/pink-lipstick-through-bright-blue-paper.jpg)
+    background-repeat: no-repeat;
+    background-size; cover;
+    background-position: center center;
+    }
