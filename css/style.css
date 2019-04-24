@@ -6,8 +6,7 @@
 }
 
 body{
-/*    font-family: 'Play', sans-serif;*/
-    font-family: 'Concert One', cursive;
+    font-family: 'Play', sans-serif;
     background-color: whitesmoke;
     font-size: 20px;
     text-align: center;
@@ -36,6 +35,7 @@ header {
     padding: 20%;
     background-color: black;
     background-image: url(../img/supremeblast.jpg);
+    font-family: 'Shadows Into Light', cursive;
     background-repeat: no-repeat;
     background-size; cover;
     background-position: center center;
@@ -62,7 +62,6 @@ h1{
     .img {  
     display: flex;
     justify-content: center;
-/*        background-color: black;*/
         padding: 40px;
         clear: both;
         }
@@ -79,18 +78,6 @@ h1{
 
 
 }
-/*
-
-.man{
-  background
-}
-*/
-
-/*
-.circles {
-  border-radius: 50%;
-}
-*/
 
 
 .manwholovescolor {
@@ -107,8 +94,7 @@ padding: 20px;
 .item2 {
     
     order: 2;
-    background-color: pink;
-/*    padding: 10px;*/
+    background-color: #FFC0CB;
 }
 
 /*
@@ -117,12 +103,6 @@ padding: 20px;
 }
 */
 
-/*
-.opening {
-background-color: deeppink ; 
-border: 20px solid black;
-
-}*/
 
 footer{
     border-bottom: 5px dotted #FFC0CB;
@@ -133,27 +113,7 @@ p {
  
 }
 
-/*
-.last{
-    margin: none;
-}
-*/
 
-#top{
-  display: none; 
-  position: fixed;
-  bottom: 20px; /* Place the button at the bottom of the page */
-  right: 30px; /* Place the button 30px from the right */
-  z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
-  outline: none; /* Remove outline */
-  background-color: pink;
-  color: white; 
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 10px; 
-  font-size: 18px; 
-}
 
 #highlight {
     background-color: white;
@@ -161,7 +121,6 @@ p {
     padding: 30px;
     width: 60%;
     text-align: center;
-/*    margin: 20px;*/
 }
 
 #links {
@@ -169,21 +128,16 @@ p {
     margin: 50px;
 }
 
-strong{
-    font-size: 30px;
-}
 
 h2{
     text-decoration: underline;
-    text-decoration-color: pink;
+    text-decoration-color: #FFC0CB;
     text-align-last: right;
     padding-right: 20px;
 }
     
-#secondbackground {
-    background-color: black;
-    background-image: url(../img/pink-lipstick-through-bright-blue-paper.jpg)
-    background-repeat: no-repeat;
-    background-size; cover;
-    background-position: center center;
-    }
+
+
+
+
+
