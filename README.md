@@ -2,12 +2,13 @@
    🟢🟣🟤  affectsofahue  🔴🔵🟠🟡  
   </p> 
 
-![website]()
+<img width="1023" alt="affectsofahue" src="https://user-images.githubusercontent.com/49247755/136206575-79664a82-55a5-49f1-a318-8ed289474a0a.png">
+
 
 
 
 <p align="center">
-MY FIRST WEBSITE 
+ <strong>MY FIRST WEBSITE</strong>
 </p>
 
  Welcome to the first website made by me in my journey to code. I chose to display the affects color can have on users to showcase my skill.
