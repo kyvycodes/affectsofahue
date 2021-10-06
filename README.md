@@ -11,7 +11,7 @@
  <strong>MY FIRST WEBSITE</strong>
 </p>
 
- Welcome to the first website made by me in my journey to code. I chose to display the affects color can have on users to showcase my skill.
+ Welcome to the first website made by me in my journey to code. I chose to display the affects color can have on users to showcase my skill. (hosted on github)
 
 ---
 
